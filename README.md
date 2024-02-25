@@ -30,3 +30,6 @@ A financial budget is a detailed report on the income and expenditure of a gover
 ## Dataset
 
 The dataset used for this project is stored in a CSV file named `budget_data.csv`. It contains information about the income and expenditure of the government or organization for a specific financial year.
+
+![image](https://github.com/ManojKumar1603/Financial-Budget-Analysis/assets/122170545/70f99d90-b61c-4a0d-962a-f662facead8d)
+
